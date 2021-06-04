@@ -1,0 +1,46 @@
+[
+	{
+		"case": "ShaderBall",
+		"status": "active",
+		"functions": [
+			"render(case)"
+		],
+		"script_info": [
+			"Low-Poly geometry test"
+		],
+		"scene": "ShaderBall.blend"
+	},
+	{
+		"case": "SecondaryDiffuseLighting",
+		"status": "active",
+		"functions": [
+			"render(case)"
+		],
+		"script_info": [
+			"Secondary diffuse lighting test"
+		],
+		"scene": "SecondaryDiffuseLighting.blend"
+	},
+	{
+		"case": "Hair",
+		"status": "active",
+		"functions": [
+			"render(case)"
+		],
+		"script_info": [
+			"Basic hair shaders test"
+		],
+		"scene": "Hair.blend"
+	},
+	{
+		"case": "MaterialTest",
+		"status": "active",
+		"functions": [
+			"render(case)"
+		],
+		"script_info": [
+			"Simple material tests"
+		],
+		"scene": "MaterialTest.blend"
+	}
+]
